@@ -1,5 +1,5 @@
 // testing Travis CI on a nodejs app
-// the package.json defines the test behavior (which is to run JSLint; a javascript linter for code quality)
+// the package.json defines the test behavior (which is to run JSLint; a javascript linter for code quality) 
 
 const host = '127.0.0.1';
 const port = 2333;
